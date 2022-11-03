@@ -30,8 +30,7 @@ export default function ChartMain() {
           type: "text",
           content: { text: "亲，您遇到什么问题啦？请简要描述您的问题~" },
           user: {
-            avatar:
-              "	https://img1.baidu.com/it/u=1394839373,2163428572&fm=253&fmt=auto&app=138&f=JPEG?w=374&h=374",
+            avatar: adminAvatar,
           },
         });
       }, 1000);
